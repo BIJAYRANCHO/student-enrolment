@@ -1,0 +1,13 @@
+CODE,DESCRIPTION,CA_RATE,EXAM_RATE
+CSC111,introdution to computer Scince,0.4,0.6
+CSC113,Interduction to IT,0.33,0.67
+CSC121,Communications Fundamentals,0.5,0.6
+CSC112,Computer Programming I,0.4,0.6
+CSC203,Discrete Mathematics,0.4,0.6
+CSC205,Probability Of Statiatics,0.4,0.6
+CSC213,Computer Programming II,0.4,0.6
+CSC251,Human Computer Interaction,0.6,0.4
+CSC222,Computer Archetacture & Organization,0.4,0.6
+CSC242,Object Oriented Programming,0.4,0.6
+CSC262,IT Law and Ethics,0.5,0.5
+CSC272,Database Design,0.4,0.6
